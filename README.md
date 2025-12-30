@@ -1,3 +1,3 @@
 # Beginner
-This is my first Repository. Author: Yashwant.
+This is my first Repository.  Author: Yashwant.
 
